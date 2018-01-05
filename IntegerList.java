@@ -162,7 +162,7 @@ public class IntegerList{
         
     }
     
-       public void removeFirst(int newVal) {
+       //public void removeFirst(int newVal) {
         //remove first value
         
         //shift list down
